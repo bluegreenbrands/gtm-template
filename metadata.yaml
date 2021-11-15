@@ -2,6 +2,8 @@ homepage: 'https://www.bluegreenanalytics.com'
 documentation: 'https://support.bluegreenanalytics.com/installation'
 versions:
   # Latest version
-  - sha: 27127df1597683c52e7eb27bffff59c29e95b6dc
-    changeNotes: Release v1.0.0
+  - sha: 3ac4b0c692769c83aebae4eef3aaf672fa72c189
+    changeNotes: Release v1.0.1 | removed 'domain' from fields and inject script
   # Older versions
+  - sha: 27127df1597683c52e7eb27bffff59c29e95b6dc
+    changeNotes: Release v1.0.0 | initial release
